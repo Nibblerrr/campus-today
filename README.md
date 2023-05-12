@@ -1,4 +1,4 @@
-# **Leave-School**
+# **campus-today**
 
 ##### 今日校园模拟请假软件(带核验码)
 
@@ -10,7 +10,7 @@
 
 ##### 本软件使用[Uni-App](https://uniapp.dcloud.io/)编写
 
-基于[Agonery133/jinrixiaoyuan](https://github.com/Agoney133/jinrixiaoyuan) 进行的二次开发
+基于https://github.com/ZeroMean/leave-school 进行的二次开发
 
 ##### 软件仅供学习研究使用，请勿用于任何商业非法用途，否则造成任何后果作者概不负责！！！
 
@@ -22,20 +22,8 @@
 
 ##  优化更新
 
-2021-03-04 更新内容：
-
-- 解决了右滑返回上一级的反人性化操作。
-- 修复时间处理错误问题。
-- 去除模拟签到功能。
-
-
-
-2020-01-17 原作者版本未更新核验码功能，本次二开做出了以下优化：
-
-- 优化使用界面，更加还原真实度。
-- 增加核验码功能。
-
-
+2023/5/12
+将页面UI更新为新的今日校园版本，修复原本请假时间小时数为个数时不显示前置0 的bug
 
 ##  平台使用
 
@@ -47,8 +35,8 @@
 
 ## 软件截图
 
-<img src="images/2541610871202_.pic_hd-0871338.jpg" alt="2541610871202_.pic_hd" style="zoom:20%;" />
+<img src="images/example1.jpg" alt="example1" style="zoom:20%;" />
 
-<img src="images/2551610871203_.pic_hd.jpg" alt="2551610871203_.pic_hd" style="zoom:20%;" />
+<img src="images/example2.jpg" alt="example2" style="zoom:20%;" />
 
-<img src="images/2561610871204_.pic_hd.jpg" alt="2561610871204_.pic_hd" style="zoom:20%;" />
+<img src="images/example3.jpg" alt="example3" style="zoom:20%;" />
